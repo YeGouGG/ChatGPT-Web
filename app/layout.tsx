@@ -11,9 +11,9 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "NextChat",
-  description: "Your personal ChatGPT Chat Bot.",
+  description: "个人学习使用，严禁传播收费.",
   viewport: {
-    width: "device-width",
+    width: "20240407",
     initialScale: 1,
     maximumScale: 1,
   },
